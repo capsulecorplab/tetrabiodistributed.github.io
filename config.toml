@@ -1,5 +1,6 @@
-baseURL = "https://tetrabiodistributed.github.io"
+baseURL = "https://capsulecorplab.github.io/tetrabiodistributed.github.io"
 title = "Project Tetra"
+canonifyURLs = true
 
 enableRobotsTXT = true
 
